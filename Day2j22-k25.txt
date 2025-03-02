@@ -162,7 +162,7 @@ ip dhcp pool etelecarenaga.com
 Config t
 Int  e 1/0
 swi mode access
-  swi accesss vlan 26
+  swi access vlan 26
   do sh ip dhcp binding
 @S2 
 config t
