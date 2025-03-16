@@ -1,11 +1,11 @@
 {
  "aironet": [
      {
-        "host_ip": "10.1.1.3",
+        "host_ip": "10.22.10.3",
         "hostname": "41AutonoAP",
         "username": "admin",
-        "password": "password",
-        "ssid": "41-wifiautoSSID",
+        "password": "pass",
+        "ssid": "22-Botoy",
         "authentication": "open",
         "key-man": "wpa",
         "wifi-pass": "C1sc0123",
